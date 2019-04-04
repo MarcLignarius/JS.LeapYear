@@ -1,18 +1,18 @@
-# _Leap Year_
+# _Arrays & Looping Practice: Leap Year_
 
-#### _Will determine if any given year is a leap year, {Date of current version}_
+#### _User enters a year and program returns if it's a leap year or not. 04/03/2019._
 
-#### By _**Marc Davies**_
+#### By _**Kaya Jepson & Marc Davies**_
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+_User is prompted to enter a year and a function will return whether or not it's a leap year. See specs below._
 
 ## Setup/Installation Requirements
 
 * _Clone from GitHub_
 * _Open index.html_
-* _Alternatively, launch marclignarius.github.io/projectname_
+* _Alternatively, launch marclignarius.github.io/leapyear_
 
 ## Specs
 
@@ -45,4 +45,4 @@ _HTML, CSS, JS, Bootstrap, jQuery, Atom._
 
 *This software is licensed under the GPL license.*
 
-Copyright (c) 2019 **_Marc Davies_**
+Copyright (c) 2019 **_Kaya Jepson & Marc Davies_**
